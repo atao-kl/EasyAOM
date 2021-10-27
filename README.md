@@ -1,2 +1,2 @@
-npm i --save
+npm i
 npm run dev
